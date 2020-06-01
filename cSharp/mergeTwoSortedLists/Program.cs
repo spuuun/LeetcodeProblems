@@ -28,7 +28,7 @@ namespace mergeTwoSortedLists
         static void Main(string[] args)
         {
             List<int> testCase1 = new List<int>(new int[] {1,2,3,4,5});
-            int[] testCase2 = {3,4,4,6};
+            List<int> testCase2 = new List<int>(new int[] {3,4,4,6});
 
             LinkedList<int> test1 = new LinkedList<int>(testCase1);
             LinkedList<int> test2 = new LinkedList<int>(testCase2);
@@ -44,7 +44,7 @@ namespace mergeTwoSortedLists
                 newHead = newHead.next;
             }
             Console.WriteLine(newHead.val);
-            // ReverseList(test2.First;
+            // ReverseList(test2.First);
         }
 
         public ListNode MergeTwoLists(ListNode l1, ListNode l2)
