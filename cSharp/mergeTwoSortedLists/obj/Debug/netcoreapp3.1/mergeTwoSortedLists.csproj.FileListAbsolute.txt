@@ -1,0 +1,13 @@
+C:\Users\spuuu\workspace\leetcode\cSharp\mergeTwoSortedLists\bin\Debug\netcoreapp3.1\mergeTwoSortedLists.exe
+C:\Users\spuuu\workspace\leetcode\cSharp\mergeTwoSortedLists\bin\Debug\netcoreapp3.1\mergeTwoSortedLists.deps.json
+C:\Users\spuuu\workspace\leetcode\cSharp\mergeTwoSortedLists\bin\Debug\netcoreapp3.1\mergeTwoSortedLists.runtimeconfig.json
+C:\Users\spuuu\workspace\leetcode\cSharp\mergeTwoSortedLists\bin\Debug\netcoreapp3.1\mergeTwoSortedLists.runtimeconfig.dev.json
+C:\Users\spuuu\workspace\leetcode\cSharp\mergeTwoSortedLists\bin\Debug\netcoreapp3.1\mergeTwoSortedLists.dll
+C:\Users\spuuu\workspace\leetcode\cSharp\mergeTwoSortedLists\bin\Debug\netcoreapp3.1\mergeTwoSortedLists.pdb
+C:\Users\spuuu\workspace\leetcode\cSharp\mergeTwoSortedLists\obj\Debug\netcoreapp3.1\mergeTwoSortedLists.csprojAssemblyReference.cache
+C:\Users\spuuu\workspace\leetcode\cSharp\mergeTwoSortedLists\obj\Debug\netcoreapp3.1\mergeTwoSortedLists.csproj.CoreCompileInputs.cache
+C:\Users\spuuu\workspace\leetcode\cSharp\mergeTwoSortedLists\obj\Debug\netcoreapp3.1\mergeTwoSortedLists.AssemblyInfoInputs.cache
+C:\Users\spuuu\workspace\leetcode\cSharp\mergeTwoSortedLists\obj\Debug\netcoreapp3.1\mergeTwoSortedLists.AssemblyInfo.cs
+C:\Users\spuuu\workspace\leetcode\cSharp\mergeTwoSortedLists\obj\Debug\netcoreapp3.1\mergeTwoSortedLists.dll
+C:\Users\spuuu\workspace\leetcode\cSharp\mergeTwoSortedLists\obj\Debug\netcoreapp3.1\mergeTwoSortedLists.pdb
+C:\Users\spuuu\workspace\leetcode\cSharp\mergeTwoSortedLists\obj\Debug\netcoreapp3.1\mergeTwoSortedLists.genruntimeconfig.cache
